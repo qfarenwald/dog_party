@@ -59,6 +59,10 @@
   border: 1px red solid;
 }
 
+.header__span {
+  font-weight: bold;
+}
+
 .header__img {
   border-radius: 50%;
   border: 5px solid;
