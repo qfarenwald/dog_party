@@ -1,12 +1,12 @@
 # Dog Party
 
-**Dog Party** is my first project assigned in my Turing MOD 1 class.
+**Dog Party** is my first project assigned in Turing MOD 1.
 
-**Phase 1:** The goal is to accurately rebuild a website from a static comp provided. Next, a second static comp was provided and using the same HTML code but a new CSS file that comp was to be recreated accurately as well.
+**Phase 1:** The goal is to accurately rebuild a website from one static comp provided. A second static comp is then provided and using the same HTML file but a new CSS file, the second comp is to be recreated accurately as well. Flex box and grid are NOT to be used. A README.md is to be created.
 
 **Phase 2:** Both comps are to be mobile adaptable using media queries and checking success using dev tools.
 
-If all goes well, JS is to be incorporated to build functionality into the header to allow the user to type a dog name into the input field, click the button, and have that dog name populate the h1
+JS is to be incorporated to build functionality into the header to allow the user to type a dog name into the input field, click the button, and have that dog name populate the header.
 
 **Phase 3:** More button functionality is to be added to the main buttons. Tooltips are to be added to the elements in the nav bar. And each main column will be able to have the text editable.
 
@@ -14,19 +14,19 @@ If all goes well, JS is to be incorporated to build functionality into the heade
 
 **Dog Party Static Comp 1:**
 
-![alt text](images/dog_party_1_comp.jpg "Dog Party Static Comp 1")
+![Dog Party Static Comp 1](images/dog_party_1_comp.jpg "Dog Party Static Comp 1")
 
 **Dog Party Static Comp 2:**
 
-![alt text](images/dog_party_2_comp.jpg "Dog Party Static Comp 1")
+![Dog Party Static Comp 2](images/dog_party_2_comp.jpg "Dog Party Static Comp 1")
 
 ## Project Status
 
-Due to time constraints at Turing and moving swiftly onto new curriculum and projects, some elements in Phase 2 may still need to be finished and Phase 3.
+Due to time constraints at Turing and moving swiftly onto new curriculum and projects, media query elements in the second comp still need to be finessed. Phase 3 is yet to be started. All of Phase 1 was accomplished as well as the media queries for Comp 1 and the JS functionality in Phase 2.
 
 ## Contributions
 
-Please do not contribute directly to the project, but if you have suggestions, I would be happy to consider and implement myself to help with the learning process. Please email me at q.farenwald@gmail.com
+Please do not contribute directly to the project, but if you have suggestions, I would be happy to consider and implement myself to help with the learning process! Please email me at q.farenwald@gmail.com.
 
 ## Acknowledgements
 
