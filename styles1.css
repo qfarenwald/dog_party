@@ -87,7 +87,7 @@
   width: 370px;
   height: 45px;
   margin-top: 5px;
-  border: none;
+  border: 0;
   border-radius: 2px 2px 2px 2px;
   font-size: 16px;
   padding-left: 20px;
@@ -100,7 +100,7 @@
   height: 45px;
   margin-top: 20px;
   font-size: 16px;
-  border: none;
+  border: 0;
   border-radius: 2px 2px 2px 2px;
   font-family: 'Open Sans', sans-serif;
 }
@@ -156,7 +156,7 @@
   color: #ffffff;
   font-size: 16px;
   margin-bottom: 40px;
-  border: none;
+  border: 0;
   border-radius: 2px 2px 2px 2px;
   font-family: 'Open Sans', sans-serif;
 }

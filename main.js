@@ -3,9 +3,9 @@ var nameInput = document.querySelector('.header__input--name');
 console.log("var name", nameInput);
 var changeNameButton = document.querySelector('.header__input--button');
 
-changeNameButton.addEventListener('click', function () {
-    var name = nameInput.value;
-    document.querySelector('.header__span').innerHTML = (name);
+changeNameButton.addEventListener('click', function() {
+  var name = nameInput.value;
+  document.querySelector('.header__span').innerHTML = (name);
 });
 
 // var colorInput = document.querySelector('#color');
