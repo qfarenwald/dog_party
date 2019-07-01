@@ -12,13 +12,21 @@ JS is to be incorporated to build functionality into the header to allow the use
 
 ## Visuals
 
-**Dog Party Static Comp 1:**
+**Dog Party Initial Static Comp 1:**
 
 ![Dog Party Static Comp 1](images/dog_party_1_comp.jpg "Dog Party Static Comp 1")
 
-**Dog Party Static Comp 2:**
+**Dog Party Final Working Comp 1:**
 
-![Dog Party Static Comp 2](images/dog_party_2_comp.jpg "Dog Party Static Comp 1")
+![Dog Party Final Comp 1](images/dog_party_1_final.png "Dog Party Final Comp 1")
+
+**Dog Party Initial Static Comp 2:**
+
+![Dog Party Static Comp 2](images/dog_party_2_comp.jpg "Dog Party Static Comp 2")
+
+**Dog Party Final Working Comp 2:**
+
+![Dog Party Final Comp 2](images/dog_party_2_final.png "Dog Party Final Comp 2")
 
 ## Project Status
 
